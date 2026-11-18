@@ -1,0 +1,13 @@
+aiogram==3.32.0
+fastapi==0.165.0
+uvicorn==0.52.1
+sqlalchemy==2.0.37
+aiosqlite==0.20.0
+psycopg[binary]==3.3.9
+alembic==1.20.1
+httpx[socks]==0.28.1
+pydantic==2.13.4
+pydantic-settings==2.15.0
+python-dotenv==1.2.2
+aiohttp==3.14.5
+starlette==1.10.0
