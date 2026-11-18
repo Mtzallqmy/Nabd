@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+*.db*
+*.sqlite*
+*.log
+NABD_CARBON_HANDOFF.json
+NABD_CARBON_SOURCE_PACKAGE.zip
+data/

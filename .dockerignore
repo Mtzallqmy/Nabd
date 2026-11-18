@@ -1,0 +1,13 @@
+.git
+.env
+.env.*
+.venv
+__pycache__
+**/__pycache__
+*.db*
+*.sqlite*
+*.log
+*.zip
+NABD_CARBON_HANDOFF.json
+data
+tests
